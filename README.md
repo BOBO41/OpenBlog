@@ -1,14 +1,4 @@
-OpenBlog is a simple blog created during Java/OOP courses.
-
-Username/password auth, admin can add/edit/delete blog posts, users (after registration) can add comments, vote (+1/-1) for posts and comments.
-
-Can be useful for someone who is learning the techonologies/frameworks used here.
-
-- Spring MVC, Spring Security. Spring profiles.
-- Hibernate, MySQL database.
-- Thymeleaf, Bootstrap, jQuery.
-- [PageDown](https://code.google.com/archive/p/pagedown/) (Markdown editor), and [Txtmark](https://github.com/rjeschke/txtmark) in backend.
-- Tests (unit and integration). JUnit, Mockito.
+OpenBlog is custom CMS system that help you to build regularly updated website or web pages, typically one run by an individual or small group it is written in Java using Spring MVC architecture.
 
 Features:
 - Posts and comments support Markdown syntax.
